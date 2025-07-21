@@ -9,7 +9,7 @@
 5. [Описание рисков реализации (бизнес и технические).](https://github.com/Kostyaura/architecture-fitness/blob/master/Риски%20реализации.md).
 6. [План поэтапной разработки и расширения системы, анализ критически важных компонентов.](https://github.com/Kostyaura/architecture-fitness/blob/master/План%20поэтапной%20разработки.md)
 7. [Выделение критических бизнес-сценариев.](https://github.com/Kostyaura/architecture-fitness/blob/master/Критические%20бизнес-сценарии.md)
-8. Атрибуты качества.
+8. [Атрибуты качества.](https://github.com/Kostyaura/architecture-fitness/blob/master/Атрибуты%20качества.md)
 9. Анализ и список нефункциональных требований.
 10. Анализ и описание архитектурных опций и обоснование выбора. 
 11. Список ADR. 
