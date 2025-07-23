@@ -12,7 +12,7 @@
 8. [Атрибуты качества.](https://github.com/Kostyaura/architecture-fitness/blob/master/Атрибуты%20качества.md)
 9. [Анализ и список нефункциональных требований.](https://github.com/Kostyaura/architecture-fitness/blob/master/Нефункциональные%20требования.md)
 10. [Анализ и описание архитектурных опций и обоснование выбора.](https://github.com/Kostyaura/architecture-fitness/blob/master/Архитектурные%20опции.md)
-11. Список ADR. 
+11. [Список ADR.](https://github.com/Kostyaura/architecture-fitness/blob/master/Список%20ADR.md)
 12. Описание сценариев использования приложения. 
 13. Базовая архитектура с учётом ограничений бизнес-требований, НФТ, выбранной архитектуры, адресация атрибутов качества.
 14. Основные представления (функциональное, информационное, многозадачность (concurrency), инфраструктурное, безопасность).
