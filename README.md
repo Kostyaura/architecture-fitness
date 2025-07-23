@@ -18,7 +18,7 @@
 11. [Список ADR.](https://github.com/Kostyaura/architecture-fitness/blob/master/Список%20ADR.md)
 12. [Описание сценариев использования приложения.](https://github.com/Kostyaura/architecture-fitness/blob/master/Сценарии%20использования.md)
 13. [Базовая архитектура с учётом ограничений бизнес-требований, НФТ, выбранной архитектуры, адресация атрибутов качества.](https://github.com/Kostyaura/architecture-fitness/blob/master/Базовая%20архитектура.md)
-14. Основные представления (функциональное, информационное, многозадачность (concurrency), инфраструктурное, безопасность).
+14. [Основные представления (функциональное, информационное, многозадачность (concurrency), инфраструктурное, безопасность).](https://github.com/Kostyaura/architecture-fitness/blob/master/Основные%20представления.md)
 
 ---
 
